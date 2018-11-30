@@ -1,0 +1,71 @@
+.nav-wrapper{
+    background-color: black; 
+}
+.dropdown-content{
+    color: black;
+    background-color: white;
+	border-bottom-color: #FFFFFF;
+}
+.section-search input{
+    padding: 5px !important;
+    font-size: 18px !important;
+    width: 80% !important;
+    border: #f4f4f4 1px solid !important;
+    color: black; 
+    margin-bottom: 20px;
+    margin: 1,5px 90px 60px;
+}
+.side-nav{
+    background-color: aliceblue;
+}
+.login button{
+    padding: 0px 40px;
+}
+.slider .slides li .caption{
+	top: 40%;
+    color:#FFFFFF;
+    text-shadow: 1px 1px 5px #000000;
+}
+.slider{
+    margin-top: 110px; 
+}
+.textslider{
+    color: #FFFFFF;
+}
+.slider .indicators .indicator-item.active
+{
+    background-color: dimgrey;
+}
+
+.espacamentoSuperior{
+    margin-top: 110vh;
+}
+
+.btn, .btn-large{
+    background-color: black;
+}
+
+.equipe{
+    padding-bottom: 25px;
+}
+.chip-custom{
+    display:block;
+    margin:5px;
+}
+.equipe,.servico,.rodape{
+    opacity:;
+}
+.page-footer{
+    background-color: #000000 ;
+}
+.nav-wrapper{
+    background-color: #000000 ;
+}
+.precoan{
+    text-decoration: line-through;
+    font-size: 15px !important;
+    
+}
+.preco{
+    font-size: 18px !important;
+}
